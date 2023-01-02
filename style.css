@@ -1,0 +1,40 @@
+body
+{
+    background-color: lime;
+}
+
+#score
+{
+    font-size: 30px;
+    float: left;
+    margin-left: 30px;
+    
+}
+
+#timer
+{
+    font-size: 30px;
+    float: right;
+    margin-right: 30px;
+    
+}
+
+
+#sketch_to_be_drawn
+{
+    color: blue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#your_sketch
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#confidence
+{
+    font-size: 20px;
+    font-weight: bold;
+}
